@@ -5,7 +5,7 @@
 
 **********************************************************************************/
 /**************************************************************
-	
+
 	STYLESHEET INDEXING
 	|
 	|
@@ -27,34 +27,34 @@
 	|
 	|
 	|___Inner Styles
-	|	|___ breadcrump 
-	|	|___ section-title 
+	|	|___ breadcrump
+	|	|___ section-title
 	|	|___ button
 	|	|___ pagination
 	|	|___ socialicon
 	|	|___ footer
 	|
 	|___Elements Styles
-	|	|___ portfolio 
-	|	|___ service 
-	|	|___ slider 
-	|	|___ counterup 
-	|	|___ testimonial 
-	|	|___ brand 
-	|	|___ team 
-	|	|___ callto-action 
-	|	|___ tab 
-	|	|___ accordion 
-	|	|___ list 
-	|	|___ pricing 
-	|	|___ contact 
+	|	|___ portfolio
+	|	|___ service
+	|	|___ slider
+	|	|___ counterup
+	|	|___ testimonial
+	|	|___ brand
+	|	|___ team
+	|	|___ callto-action
+	|	|___ tab
+	|	|___ accordion
+	|	|___ list
+	|	|___ pricing
+	|	|___ contact
 	|
 	|___BLog Styles
-	|	|___ blog 
-	|	|___ blog-details 
+	|	|___ blog
+	|	|___ blog-details
 	|
 	|___Template Styles
-	|	|___ about 
+	|	|___ about
 	|	|___ portfolio-details
 	|	|___ service-details
 	|	|___ preview
@@ -67,10 +67,10 @@
     Default Styles
 ***************************************/
 /*===============================
-    Font Family 
+    Font Family
 =================================*/
 /*===============================
-    Color Variation 
+    Color Variation
 =================================*/
 /* container 450px*/
 /* container 300px*/
@@ -340,6 +340,7 @@ input {
   line-height: normal;
 }
 
+/*noinspection CssInvalidPropertyValue*/
 button,
 html input[type="button"],
 input[type="reset"],
@@ -360,6 +361,7 @@ input[type="radio"] {
   padding: 0;
 }
 
+/*noinspection ALL*/
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-appearance: textfield;
@@ -677,7 +679,7 @@ ul.liststyle.bullet li + li {
 }
 
 /*=====================
-Common Css 
+Common Css
 =======================*/
 .textBlack {
   color: #000000;
@@ -3815,7 +3817,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 /* ------------------------
-    Custom Animation 01 
+    Custom Animation 01
 ----------------------------*/
 @-webkit-keyframes headerSlideDown {
   0% {
@@ -3839,7 +3841,7 @@ Copyright (c) 2015 Daniel Eden
  *  Utilities
 =================================*/
 /*====================================
-    Google Font  
+    Google Font
 ===================================*/
 /*----------------------------------------
 font-family: 'Montserrat', sans-serif;
@@ -3919,12 +3921,13 @@ font-family: 'Poppins', sans-serif;
   color: #c6c9d8 !important;
 }
 
+/*noinspection ALL*/
 .bg_image.bg-position-fixed {
   background-position: fixed;
 }
 
 /*===============================
-    Background Color 
+    Background Color
 =================================*/
 .bg_color--1 {
   background: #fff;
@@ -3955,7 +3958,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 /*===========================
-    Background Image 
+    Background Image
 =============================*/
 .bg_overlay:before {
   position: absolute;
@@ -3972,125 +3975,125 @@ font-family: 'Poppins', sans-serif;
   position: relative;
 }
 
-.bg_image--1 {
-  background-image: url(../images/bg/bg-image-1.jpg);
-}
+/*.bg_image--1 {*/
+/*  background-image: url(../images/bg/bg-image-1.jpg);*/
+/*}*/
 
-.bg_image--2 {
-  background-image: url(../images/bg/bg-image-2.jpg);
-}
+/*.bg_image--2 {*/
+/*  background-image: url(../images/bg/bg-image-2.jpg);*/
+/*}*/
 
-.bg_image--3 {
-  background-image: url(../images/bg/bg-image-3.jpg);
-}
+/*.bg_image--3 {*/
+/*  background-image: url(../images/bg/bg-image-3.jpg);*/
+/*}*/
 
-.bg_image--4 {
-  background-image: url(../images/bg/bg-image-4.jpg);
-}
+/*.bg_image--4 {*/
+/*  background-image: url(../images/bg/bg-image-4.jpg);*/
+/*}*/
 
-.bg_image--5 {
-  background-image: url(../images/bg/bg-image-5.jpg);
-}
+/*.bg_image--5 {*/
+/*  background-image: url(../images/bg/bg-image-5.jpg);*/
+/*}*/
 
-.bg_image--6 {
-  background-image: url(../images/bg/bg-image-6.jpg);
-}
+/*.bg_image--6 {*/
+/*  background-image: url(../images/bg/bg-image-6.jpg);*/
+/*}*/
 
-.bg_image--7 {
-  background-image: url(../images/bg/bg-image-7.jpg);
-}
+/*.bg_image--7 {*/
+/*  background-image: url(../images/bg/bg-image-7.jpg);*/
+/*}*/
 
-.bg_image--8 {
-  background-image: url(../images/bg/bg-image-8.jpg);
-}
+/*.bg_image--8 {*/
+/*  background-image: url(../images/bg/bg-image-8.jpg);*/
+/*}*/
 
-.bg_image--9 {
-  background-image: url(../images/bg/bg-image-9.jpg);
-}
+/*.bg_image--9 {*/
+/*  background-image: url(../images/bg/bg-image-9.jpg);*/
+/*}*/
 
-.bg_image--10 {
-  background-image: url(../images/bg/bg-image-10.jpg);
-}
+/*.bg_image--10 {*/
+/*  background-image: url(../images/bg/bg-image-10.jpg);*/
+/*}*/
 
-.bg_image--11 {
-  background-image: url(../images/bg/bg-image-11.jpg);
-}
+/*.bg_image--11 {*/
+/*  background-image: url(../images/bg/bg-image-11.jpg);*/
+/*}*/
 
-.bg_image--12 {
-  background-image: url(../images/bg/bg-image-12.jpg);
-}
+/*.bg_image--12 {*/
+/*  background-image: url(../images/bg/bg-image-12.jpg);*/
+/*}*/
 
-.bg_image--13 {
-  background-image: url(../images/bg/bg-image-13.jpg);
-}
+/*.bg_image--13 {*/
+/*  background-image: url(../images/bg/bg-image-13.jpg);*/
+/*}*/
 
-.bg_image--14 {
-  background-image: url(../images/bg/bg-image-14.jpg);
-}
+/*.bg_image--14 {*/
+/*  background-image: url(../images/bg/bg-image-14.jpg);*/
+/*}*/
 
-.bg_image--15 {
-  background-image: url(../images/bg/bg-image-15.jpg);
-}
+/*.bg_image--15 {*/
+/*  background-image: url(../images/bg/bg-image-15.jpg);*/
+/*}*/
 
-.bg_image--16 {
-  background-image: url(../images/bg/bg-image-16.jpg);
-}
+/*.bg_image--16 {*/
+/*  background-image: url(../images/bg/bg-image-16.jpg);*/
+/*}*/
 
-.bg_image--17 {
-  background-image: url(../images/bg/bg-image-17.jpg);
-}
+/*.bg_image--17 {*/
+/*  background-image: url(../images/bg/bg-image-17.jpg);*/
+/*}*/
 
-.bg_image--18 {
-  background-image: url(../images/bg/bg-image-18.jpg);
-}
+/*.bg_image--18 {*/
+/*  background-image: url(../images/bg/bg-image-18.jpg);*/
+/*}*/
 
-.bg_image--19 {
-  background-image: url(../images/bg/bg-image-19.jpg);
-}
+/*.bg_image--19 {*/
+/*  background-image: url(../images/bg/bg-image-19.jpg);*/
+/*}*/
 
-.bg_image--20 {
-  background-image: url(../images/bg/bg-image-20.jpg);
-}
+/*.bg_image--20 {*/
+/*  background-image: url(../images/bg/bg-image-20.jpg);*/
+/*}*/
 
-.bg_image--21 {
-  background-image: url(../images/bg/bg-image-21.jpg);
-}
+/*.bg_image--21 {*/
+/*  background-image: url(../images/bg/bg-image-21.jpg);*/
+/*}*/
 
-.bg_image--22 {
-  background-image: url(../images/bg/bg-image-22.jpg);
-}
+/*.bg_image--22 {*/
+/*  background-image: url(../images/bg/bg-image-22.jpg);*/
+/*}*/
 
-.bg_image--23 {
-  background-image: url(../images/bg/bg-image-23.jpg);
-}
+/*.bg_image--23 {*/
+/*  background-image: url(../images/bg/bg-image-23.jpg);*/
+/*}*/
 
-.bg_image--24 {
-  background-image: url(../images/bg/bg-image-24.jpg);
-}
+/*.bg_image--24 {*/
+/*  background-image: url(../images/bg/bg-image-24.jpg);*/
+/*}*/
 
-.bg_image--25 {
-  background-image: url(../images/bg/bg-image-25.jpg);
-}
+/*.bg_image--25 {*/
+/*  background-image: url(../images/bg/bg-image-25.jpg);*/
+/*}*/
 
-.bg_image--26 {
-  background-image: url(../images/bg/bg-image-26.jpg);
-}
+/*.bg_image--26 {*/
+/*  background-image: url(../images/bg/bg-image-26.jpg);*/
+/*}*/
 
-.bg_image--27 {
-  background-image: url(../images/bg/bg-image-27.jpg);
-}
+/*.bg_image--27 {*/
+/*  background-image: url(../images/bg/bg-image-27.jpg);*/
+/*}*/
 
-.bg_image--28 {
-  background-image: url(../images/bg/bg-image-28.jpg);
-}
+/*.bg_image--28 {*/
+/*  background-image: url(../images/bg/bg-image-28.jpg);*/
+/*}*/
 
-.bg_image--29 {
-  background-image: url(../images/bg/bg-image-29.jpg);
-}
+/*.bg_image--29 {*/
+/*  background-image: url(../images/bg/bg-image-29.jpg);*/
+/*}*/
 
-.bg_image--30 {
-  background-image: url(../images/bg/bg-image-30.jpg);
-}
+/*.bg_image--30 {*/
+/*  background-image: url(../images/bg/bg-image-30.jpg);*/
+/*}*/
 
 .font--1 {
   font-size: 1px !important;
@@ -4429,7 +4432,7 @@ p:last-child {
 }
 
 /*=========================
-    Text specialized 
+    Text specialized
 ==========================*/
 .text-italic {
   font-style: italic;
@@ -4663,7 +4666,7 @@ textarea:-ms-input-placeholder {
 }
 
 /*=============================
-	Overlay styles 
+	Overlay styles
 ==============================*/
 [data-overlay],
 [data-black-overlay],
@@ -4767,7 +4770,7 @@ textarea:-ms-input-placeholder {
 }
 
 /*------------------------------
-    Scroll Up 
+    Scroll Up
 --------------------------------*/
 #scrollUp {
   width: 50px;
@@ -4816,7 +4819,7 @@ img.react-parallax-bgimage {
 }
 
 /*=========================
-    Section Separation 
+    Section Separation
 ==========================*/
 .rn-section-gap {
   padding: 120px 0;
@@ -9473,7 +9476,7 @@ img.react-parallax-bgimage {
     Header Styles
 ***************************************/
 /*=====================
-    Header Area 
+    Header Area
 =======================*/
 .header-area {
   padding-left: 50px;
@@ -9857,7 +9860,7 @@ img.react-parallax-bgimage {
 }
 
 /*----------------------------
-    Mobile Menu Style Css 
+    Mobile Menu Style Css
 ------------------------------*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area .header-wrapper .mainmenunav {
@@ -10212,7 +10215,7 @@ img.react-parallax-bgimage {
 }
 
 /*====================
-Mainmenu Area 
+Mainmenu Area
 =====================*/
 .mainmenunav ul.mainmenu {
   display: -webkit-box;
@@ -10345,7 +10348,7 @@ Mainmenu Area
     Inner Styles
 ***************************************/
 /*====================
-    Breadcrump Area 
+    Breadcrump Area
 ======================*/
 @media (min-width: 1200px) {
   .container {
@@ -10408,7 +10411,7 @@ Mainmenu Area
 }
 
 /*----------------------
-Page Title Area  
+Page Title Area
 --------------------------*/
 .rn-page-title h2.title {
   font-size: 72px;
@@ -10479,7 +10482,7 @@ Page Title Area
 }
 
 /*===================
-    Section Title 
+    Section Title
 ====================*/
 .section-title {
   margin-top: -20px;
@@ -10641,7 +10644,7 @@ Page Title Area
 }
 
 /*===================
-Button Area 
+Button Area
 ====================*/
 a.btn-transparent {
   color: #1f1f25;
@@ -10823,7 +10826,7 @@ a.rn-button-style--2:hover {
 }
 
 /*-----------------------
-    Video Button  
+    Video Button
 -------------------------*/
 .yu2fvl {
   z-index: 9999;
@@ -10887,7 +10890,7 @@ a.rn-button-style--2:hover {
 }
 
 /*=====================
-    Pagination Styles 
+    Pagination Styles
 =======================*/
 .rn-pagination ul.page-list li {
   display: inline-block;
@@ -11032,7 +11035,7 @@ ul.social-share.social-style--2.color-black li a:hover {
 }
 
 /*--------------------
-Footer Styles 
+Footer Styles
 ----------------------*/
 .footer-wrapper {
   position: relative;
@@ -11073,7 +11076,7 @@ Footer Styles
   height: 100%;
   left: 0;
   top: 0;
-  background-image: url("../images/pattern-1.png");
+  /*background-image: url("../images/pattern-1.png");*/
   content: "";
   z-index: 1;
   opacity: 0.5;
@@ -11086,7 +11089,7 @@ Footer Styles
 }
 
 .footer-default .footer-left .inner::after {
-  content: url(../images/logo/big-logo.png);
+  /*content: url(../images/logo/big-logo.png);*/
   position: absolute;
   right: 0;
   top: 50%;
@@ -11165,19 +11168,17 @@ Footer Styles
 }
 
 .footer-default .footer-right {
-  background-image: url(../images/bg/bg-image-8.jpg);
-  padding: 150px 70px;
+  /*background-image: url(/images/bg/bg.jpg);*/
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding-left: 120px;
+  padding: 150px 70px 150px 120px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer-default .footer-right {
-    padding: 119px 21px;
-    padding-left: 70px;
+    padding: 119px 21px 119px 70px;
   }
 }
 
@@ -11233,7 +11234,7 @@ Footer Styles
 }
 
 /*---------------------
-Footer Style Two 
+Footer Style Two
 ------------------------ */
 .footer-style-2 p {
   color: #c6c9d8;
@@ -11242,7 +11243,7 @@ Footer Style Two
 }
 
 /*-------------------------
-    Copyright Style Css 
+    Copyright Style Css
 --------------------------*/
 .copyright-text {
   position: absolute;
@@ -11275,7 +11276,7 @@ Footer Style Two
     Elements Styles
 ***************************************/
 /*==================
-    Portfolio Area 
+    Portfolio Area
 ==================*/
 .mesonry-list {
   margin: 0 -22px;
@@ -11393,7 +11394,7 @@ Footer Style Two
   background-position: center;
   border-radius: 5px;
   background-color: #0a0a0a;
-  background-image: url(../images/portfolio/portfolio-1.jpg);
+  /*background-image: url(../images/portfolio/portfolio-1.jpg);*/
   -webkit-transform: scale(1.13) translateZ(0);
           transform: scale(1.13) translateZ(0);
   -webkit-backface-visibility: hidden;
@@ -11406,41 +11407,41 @@ Footer Style Two
   z-index: 4;
 }
 
-.portfolio .thumbnail.image-1 {
-  background-image: url(../images/portfolio/portfolio-1.jpg);
-}
+/*.portfolio .thumbnail.image-1 {*/
+/*  background-image: url(../images/portfolio/portfolio-1.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-2 {
-  background-image: url(../images/portfolio/portfolio-2.jpg);
-}
+/*.portfolio .thumbnail.image-2 {*/
+/*  background-image: url(../images/portfolio/portfolio-2.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-3 {
-  background-image: url(../images/portfolio/portfolio-3.jpg);
-}
+/*.portfolio .thumbnail.image-3 {*/
+/*  background-image: url(../images/portfolio/portfolio-3.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-4 {
-  background-image: url(../images/portfolio/portfolio-4.jpg);
-}
+/*.portfolio .thumbnail.image-4 {*/
+/*  background-image: url(../images/portfolio/portfolio-4.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-5 {
-  background-image: url(../images/portfolio/portfolio-5.jpg);
-}
+/*.portfolio .thumbnail.image-5 {*/
+/*  background-image: url(../images/portfolio/portfolio-5.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-6 {
-  background-image: url(../images/portfolio/portfolio-6.jpg);
-}
+/*.portfolio .thumbnail.image-6 {*/
+/*  background-image: url(../images/portfolio/portfolio-6.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-7 {
-  background-image: url(../images/portfolio/portfolio-7.jpg);
-}
+/*.portfolio .thumbnail.image-7 {*/
+/*  background-image: url(../images/portfolio/portfolio-7.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-8 {
-  background-image: url(../images/portfolio/portfolio-8.jpg);
-}
+/*.portfolio .thumbnail.image-8 {*/
+/*  background-image: url(../images/portfolio/portfolio-8.jpg);*/
+/*}*/
 
-.portfolio .thumbnail.image-9 {
-  background-image: url(../images/portfolio/portfolio-9.jpg);
-}
+/*.portfolio .thumbnail.image-9 {*/
+/*  background-image: url(../images/portfolio/portfolio-9.jpg);*/
+/*}*/
 
 .portfolio .thumbnail::after {
   background-color: rgba(45, 45, 45, 0.35);
@@ -11465,7 +11466,7 @@ Footer Style Two
   background-size: cover;
   background-position: center;
   background-color: #0a0a0a;
-  background-image: url(../images/portfolio/portfolio-1.jpg);
+  /*background-image: url(../images/portfolio/portfolio-1.jpg);*/
   -webkit-transform: translateY(38px);
       -ms-transform: translateY(38px);
           transform: translateY(38px);
@@ -11473,41 +11474,41 @@ Footer Style Two
   z-index: 1;
 }
 
-.portfolio .bg-blr-image.image-1 {
-  background-image: url(../images/portfolio/portfolio-1.jpg);
-}
+/*.portfolio .bg-blr-image.image-1 {*/
+/*  background-image: url(../images/portfolio/portfolio-1.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-2 {
-  background-image: url(../images/portfolio/portfolio-2.jpg);
-}
+/*.portfolio .bg-blr-image.image-2 {*/
+/*  background-image: url(../images/portfolio/portfolio-2.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-3 {
-  background-image: url(../images/portfolio/portfolio-3.jpg);
-}
+/*.portfolio .bg-blr-image.image-3 {*/
+/*  background-image: url(../images/portfolio/portfolio-3.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-4 {
-  background-image: url(../images/portfolio/portfolio-4.jpg);
-}
+/*.portfolio .bg-blr-image.image-4 {*/
+/*  background-image: url(../images/portfolio/portfolio-4.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-5 {
-  background-image: url(../images/portfolio/portfolio-5.jpg);
-}
+/*.portfolio .bg-blr-image.image-5 {*/
+/*  background-image: url(../images/portfolio/portfolio-5.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-6 {
-  background-image: url(../images/portfolio/portfolio-6.jpg);
-}
+/*.portfolio .bg-blr-image.image-6 {*/
+/*  background-image: url(../images/portfolio/portfolio-6.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-7 {
-  background-image: url(../images/portfolio/portfolio-7.jpg);
-}
+/*.portfolio .bg-blr-image.image-7 {*/
+/*  background-image: url(../images/portfolio/portfolio-7.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-8 {
-  background-image: url(../images/portfolio/portfolio-8.jpg);
-}
+/*.portfolio .bg-blr-image.image-8 {*/
+/*  background-image: url(../images/portfolio/portfolio-8.jpg);*/
+/*}*/
 
-.portfolio .bg-blr-image.image-9 {
-  background-image: url(../images/portfolio/portfolio-9.jpg);
-}
+/*.portfolio .bg-blr-image.image-9 {*/
+/*  background-image: url(../images/portfolio/portfolio-9.jpg);*/
+/*}*/
 
 .portfolio .content {
   position: absolute;
@@ -11667,7 +11668,7 @@ Footer Style Two
   background-position: center;
   border-radius: 5px;
   background-color: #0a0a0a;
-  background-image: url(../images/portfolio/portfolio-static-01.jpg);
+  /*background-image: url(../images/portfolio/portfolio-static-01.jpg);*/
   -webkit-transform: scale(1.13) translateZ(0);
           transform: scale(1.13) translateZ(0);
   -webkit-backface-visibility: hidden;
@@ -11687,45 +11688,45 @@ Footer Style Two
   }
 }
 
-.portfolio-tilthover .portfolio .thumbnail.image-1 {
-  background-image: url(../images/portfolio/portfolio-static-01.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-1 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-01.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-2 {
-  background-image: url(../images/portfolio/portfolio-static-02.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-2 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-02.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-3 {
-  background-image: url(../images/portfolio/portfolio-static-03.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-3 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-03.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-4 {
-  background-image: url(../images/portfolio/portfolio-static-04.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-4 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-04.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-5 {
-  background-image: url(../images/portfolio/portfolio-static-05.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-5 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-05.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-6 {
-  background-image: url(../images/portfolio/portfolio-static-06.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-6 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-06.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-7 {
-  background-image: url(../images/portfolio/portfolio-static-07.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-7 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-07.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-8 {
-  background-image: url(../images/portfolio/portfolio-static-08.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-8 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-08.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-9 {
-  background-image: url(../images/portfolio/portfolio-static-09.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-9 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-09.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .thumbnail.image-10 {
-  background-image: url(../images/portfolio/portfolio-static-10.jpg);
-}
+/*.portfolio-tilthover .portfolio .thumbnail.image-10 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-10.jpg);*/
+/*}*/
 
 .portfolio-tilthover .portfolio .thumbnail::after {
   display: none;
@@ -11750,7 +11751,7 @@ Footer Style Two
   background-size: cover;
   background-position: center;
   background-color: #0a0a0a;
-  background-image: url(../images/portfolio/portfolio-static-01.jpg);
+  /*background-image: url(../images/portfolio/portfolio-static-01.jpg);*/
   -webkit-transform: translateY(38px);
       -ms-transform: translateY(38px);
           transform: translateY(38px);
@@ -11765,45 +11766,45 @@ Footer Style Two
   }
 }
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-1 {
-  background-image: url(../images/portfolio/portfolio-static-01.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-1 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-01.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-2 {
-  background-image: url(../images/portfolio/portfolio-static-02.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-2 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-02.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-3 {
-  background-image: url(../images/portfolio/portfolio-static-03.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-3 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-03.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-4 {
-  background-image: url(../images/portfolio/portfolio-static-04.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-4 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-04.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-5 {
-  background-image: url(../images/portfolio/portfolio-static-05.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-5 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-05.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-6 {
-  background-image: url(../images/portfolio/portfolio-static-06.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-6 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-06.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-7 {
-  background-image: url(../images/portfolio/portfolio-static-07.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-7 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-07.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-8 {
-  background-image: url(../images/portfolio/portfolio-static-08.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-8 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-08.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-9 {
-  background-image: url(../images/portfolio/portfolio-static-09.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-9 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-09.jpg);*/
+/*}*/
 
-.portfolio-tilthover .portfolio .bg-blr-image.image-10 {
-  background-image: url(../images/portfolio/portfolio-static-10.jpg);
-}
+/*.portfolio-tilthover .portfolio .bg-blr-image.image-10 {*/
+/*  background-image: url(../images/portfolio/portfolio-static-10.jpg);*/
+/*}*/
 
 .portfolio-tilthover .portfolio .content {
   opacity: 0;
@@ -12019,9 +12020,9 @@ Footer Style Two
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#00000000', GradientType=1);
 }
 
-.portfolio-slick-activation button.slick-arrow.slick-prev::before {
-  content: url(../images/icons/slick-arrow-left.png);
-}
+/*.portfolio-slick-activation button.slick-arrow.slick-prev::before {*/
+/*  content: url(../images/icons/slick-arrow-left.png);*/
+/*}*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .portfolio-slick-activation button.slick-arrow.slick-prev {
@@ -12050,9 +12051,9 @@ Footer Style Two
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#00000000', GradientType=1);
 }
 
-.portfolio-slick-activation button.slick-arrow.slick-next::before {
-  content: url(../images/icons/slick-arrow-right.png);
-}
+/*.portfolio-slick-activation button.slick-arrow.slick-next::before {*/
+/*  content: url(../images/icons/slick-arrow-right.png);*/
+/*}*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .portfolio-slick-activation button.slick-arrow.slick-next {
@@ -12132,7 +12133,7 @@ Footer Style Two
 }
 
 /*-----------------------------
-Portfolio Style Three  
+Portfolio Style Three
 --------------------------------*/
 .portfolio-style--3 {
   position: relative;
@@ -12282,7 +12283,7 @@ Portfolio Style Three
 }
 
 /*--------------------------
-    Portfolio Style Static 
+    Portfolio Style Static
 -----------------------------*/
 a.item-portfolio-static {
   -webkit-transition: inherit;
@@ -12342,7 +12343,7 @@ a.item-portfolio-static {
 }
 
 /*==========================
-    Service Area 
+    Service Area
 ===========================*/
 /* Bg Color Variation  */
 .single-service .icon svg {
@@ -12914,7 +12915,7 @@ a.item-portfolio-static {
 }
 
 /* ---------------------------
-    Standard Service  
+    Standard Service
 -------------------------------*/
 .standard-service .thumbnai img {
   border-radius: 5px;
@@ -12941,7 +12942,7 @@ a.item-portfolio-static {
 }
 
 /*---------------------------
-    Paralax Service Style  
+    Paralax Service Style
 -----------------------------*/
 .rn-paralax-service .service__style--2 {
   z-index: 2;
@@ -13003,7 +13004,7 @@ a.item-portfolio-static {
  * Section Title
 ----------------------*/
 /*====================
-    Slider Area 
+    Slider Area
 ======================*/
 .slider-fixed--height {
   min-height: 1080px;
@@ -13201,7 +13202,7 @@ a.item-portfolio-static {
 }
 
 /*------------------------
-Slider Styles  
+Slider Styles
 --------------------------*/
 .slide .inner {
   padding-top: 100px;
@@ -13622,7 +13623,7 @@ Slider Styles
 }
 
 /*=======================
-    Slider Paralax 
+    Slider Paralax
 =========================*/
 .slider-paralax,
 .rn-paralax {
@@ -13735,7 +13736,7 @@ Slider Styles
 }
 
 /*----------------------
-Slider Default 
+Slider Default
 -----------------------*/
 .slider-activation {
   position: relative;
@@ -13813,7 +13814,7 @@ Slider Default
 }
 
 .slider-activation button.slick-arrow.slick-prev::before {
-  content: url(../images/icons/slick-arrow-left-small.png);
+  /*content: url(../images/icons/slick-arrow-left-small.png);*/
 }
 
 .slider-activation button.slick-arrow.slick-prev:hover {
@@ -13842,7 +13843,7 @@ Slider Default
 }
 
 .slider-activation button.slick-arrow.slick-next::before {
-  content: url(../images/icons/slick-arrow-right-small.png);
+  /*content: url(../images/icons/slick-arrow-right-small.png);*/
 }
 
 .slider-activation button.slick-arrow.slick-next:hover {
@@ -13942,7 +13943,7 @@ Slider Default
 }
 
 .box-model .service-wrapper {
-  background-image: url(../images/bg/bg-image-1.jpg);
+  /*background-image: url(../images/bg/bg-image-1.jpg);*/
   padding: 10px 50px;
   border-radius: 6px;
   position: relative;
@@ -13986,7 +13987,7 @@ Slider Default
 }
 
 /*========================
-    Counterup Area 
+    Counterup Area
 ==========================*/
 .counterup_style--1 {
   text-align: center;
@@ -14104,10 +14105,10 @@ Slider Default
 }
 
 /* ---------------------------
-Testimonial Styles 
+Testimonial Styles
 ------------------------------*/
 /*-----------------------------
-    Testminial Tab Content  
+    Testminial Tab Content
 --------------------------------*/
 .rn-testimonial-content {
   text-align: center;
@@ -14172,7 +14173,7 @@ Testimonial Styles
   height: 100%;
   left: 25%;
   top: -50px;
-  background-image: url(../images/client/image-1.png);
+  /*background-image: url(../images/client/image-1.png);*/
   content: "";
   opacity: 1;
   background-repeat: no-repeat;
@@ -14196,7 +14197,7 @@ Testimonial Styles
   height: 202px;
   right: 25%;
   bottom: -115px;
-  background-image: url(../images/client/image-2.png);
+  /*background-image: url(../images/client/image-2.png);*/
   content: "";
   opacity: 1;
   background-repeat: no-repeat;
@@ -14266,7 +14267,7 @@ Testimonial Styles
 }
 
 /* ------------------------------
-Testimonial Thumbnail 
+Testimonial Thumbnail
 -------------------------------- */
 .rn-testimonial-area ul.testimonial-thumb-wrapper {
   list-style: none;
@@ -14601,7 +14602,7 @@ ul.brand-style-2 img:hover {
 }
 
 /*------------------------
-    Team Styles 
+    Team Styles
 --------------------------*/
 .team {
   margin-top: 30px;
@@ -14805,7 +14806,7 @@ ul.brand-style-2 img:hover {
 }
 
 /*-------------------
-    Team Static  
+    Team Static
 ---------------------*/
 .team-static {
   margin-top: 30px;
@@ -14827,7 +14828,7 @@ ul.brand-style-2 img:hover {
 }
 
 /*--------------------------
-Call To Action Wrapper 
+Call To Action Wrapper
 -----------------------------*/
 .call-to-action {
   background: -webkit-linear-gradient(305deg, #f81f01 0%, #ee076e 100%);
@@ -14843,7 +14844,7 @@ Call To Action Wrapper
   height: 100%;
   left: 0;
   top: 0;
-  background-image: url(../images/pattern-1.png);
+  /*background-image: url(../images/pattern-1.png);*/
   content: "";
   z-index: -1;
   opacity: 0.5;
@@ -14957,7 +14958,7 @@ ul.nav.tab-style--1 li a.active::before {
 }
 
 /*------------------------
-    Tab Content  
+    Tab Content
 -------------------------*/
 .single-tab-content {
   padding-top: 20px;
@@ -15067,7 +15068,7 @@ ul.nav.tab-style--1 li a.active::before {
 }
 
 /*-------------------------------
-    Accordiuon Style One  
+    Accordiuon Style One
 --------------------------------*/
 .rn-card .rn-card-header {
   display: inline-block;
@@ -15155,7 +15156,7 @@ ul.nav.tab-style--1 li a.active::before {
 }
 
 /*----------------------
-    List Style  
+    List Style
 -----------------------*/
 ul.list-style li {
   position: relative;
@@ -15232,7 +15233,7 @@ ul.list-style li + li {
 }
 
 /*==========================
-    Contact Address 
+    Contact Address
 ============================*/
 .rn-address {
   margin-top: 30px;
@@ -15346,7 +15347,7 @@ p.form-messege-active.form-messege.success {
  * Button
  */
 /*-----------------------
-Video Popup 
+Video Popup
 -------------------------*/
 button.video-popup,
 a.video-popup {
@@ -15450,10 +15451,10 @@ a.video-popup.size-medium {
 }
 
 /*----------------------
-    Social Styles  
+    Social Styles
 -----------------------*/
 /*----------------------
-    Social Share 
+    Social Share
 ------------------------*/
 ul.social-transparent {
   margin: -8px;
@@ -15590,10 +15591,10 @@ ul.social-transparent li a:hover {
 }
 
 /*--------------------
-Gallery Styles  
+Gallery Styles
 -----------------------*/
 /*-------------------
-    Column Area  
+    Column Area
 ---------------------*/
 .single-column h4.tilte {
   margin-bottom: 6px;
@@ -15626,7 +15627,7 @@ Gallery Styles
 }
 
 /*-------------------------------
-    Pricing Area  
+    Pricing Area
 --------------------------------*/
 .rn-pricing {
   border: 2px solid #f42958;
@@ -15753,7 +15754,7 @@ Gallery Styles
 }
 
 /*----------------------
-    Error Area  
+    Error Area
 ------------------------*/
 .error-page-inner {
   height: calc(100vh - 120px);
@@ -15811,7 +15812,7 @@ Gallery Styles
     Blog Styles
 ***************************************/
 /*===================
-Blog Styles 
+Blog Styles
 =====================*/
 .blog.blog-style--1 {
   position: relative;
@@ -15969,7 +15970,7 @@ Blog Styles
 }
 
 /*----------------------
-BLog Details Styles 
+BLog Details Styles
 ------------------------*/
 .blog-single-page-title {
   position: relative;
@@ -16135,7 +16136,7 @@ BLog Details Styles
   height: 121%;
   left: 50%;
   top: 2px;
-  background-image: url(../../../../assets/images/client/image-1.png.html);
+  /*background-image: url(../../../../assets/images/client/image-1.png.html);*/
   content: "";
   opacity: 1;
   background-repeat: no-repeat;
@@ -16241,7 +16242,7 @@ BLog Details Styles
 }
 
 /*------------------------
-    BLog Contact Form  
+    BLog Contact Form
 --------------------------*/
 .blog-comment-form .inner .rnform-group {
   margin-bottom: 20px;
@@ -16267,7 +16268,7 @@ BLog Details Styles
     Template Styles
 ***************************************/
 /*====================
-    About Area 
+    About Area
 ======================*/
 .rn-finding-us-area .inner {
   position: relative;
@@ -16553,7 +16554,7 @@ BLog Details Styles
 }
 
 /*-----------------------------
-    Portfolio Details Styles 
+    Portfolio Details Styles
 -------------------------------*/
 .portfolio-thumb-inner .thumb {
   position: relative;
@@ -16709,7 +16710,7 @@ BLog Details Styles
 }
 
 /*--------------------------
-    Service Details Styles 
+    Service Details Styles
 -----------------------------*/
 .service-details-inner .sercice-details-content .thumb .video-popup {
   position: absolute;
@@ -16791,7 +16792,7 @@ BLog Details Styles
 }
 
 /*--------------------------
-    Color Darker Version  
+    Color Darker Version
 ----------------------------*/
 .active-dark {
   background: #101010;
@@ -16948,7 +16949,7 @@ BLog Details Styles
 
 .active-dark .bg_image--25 {
   background-color: #101010;
-  background-image: url(../images/bg/bg-image-28.jpg);
+  /*background-image: url(../images/bg/bg-image-28.jpg);*/
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -17290,7 +17291,7 @@ BLog Details Styles
 }
 
 /*---------------------
-    Demo Area  
+    Demo Area
 -----------------------*/
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .home-demo-area .wrapper {
@@ -17457,7 +17458,7 @@ BLog Details Styles
 }
 
 /*-------------------
-Faq Area  
+Faq Area
 ----------------------*/
 .pv-feaq-area .accodion-style--1 .accordion__item + .accordion__item {
   margin-top: 20px;
@@ -17481,7 +17482,7 @@ Faq Area
 }
 
 /*-------------------
-    Tab BUtton  
+    Tab BUtton
 ---------------------*/
 .tablist-inner {
   display: inline-block;
@@ -17591,7 +17592,7 @@ Faq Area
 }
 
 /*-----------------------
-Footer Style  
+Footer Style
 -------------------------*/
 .prv-footer .inner h2.title {
   color: #1f1f25;
