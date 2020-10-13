@@ -9,13 +9,21 @@
   },
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
+    "@contentful/rich-text-react-renderer": "^14.1.1",
     "apollo-boost": "^0.4.9",
     "apollo-server-micro": "^2.18.1",
+    "classnames": "^2.2.6",
+    "contentful": "^7.14.6",
+    "date-fns": "^2.16.1",
+    "gray-matter": "^4.0.2",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "remark": "^12.0.1",
+    "remark-html": "^13.0.1"
   },
   "devDependencies": {
+    "contentful-import": "^7.9.11",
     "prettier": "^2.1.2"
   }
 }

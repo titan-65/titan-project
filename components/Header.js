@@ -7,7 +7,7 @@ const Header = () => {
                 <div className="header-left d-flex align-items-center">
                     <div className="logo">
                         <a href="index.html">
-                            <img src="#" alt="Creative Agency"/>
+                            <img src="/images/titanpros.png" alt="Creative Agency"/>
                         </a>
                     </div>
                     <nav className="mainmenunav d-lg-block ml--50">
@@ -46,7 +46,7 @@ const Header = () => {
                             <li><a href="#"><i className="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
-                    <div className="header-btn ml_md--20 ml_sm--0"><a className="rn-btn" href="#"><span>buy now</span></a>
+                    <div className="header-btn ml_md--20 ml_sm--0"><a className="rn-btn" href="#"><span>Documentation</span></a>
                     </div>
                     {/*// <!-- Start Humberger Menu  -->*/}
                     <div className="humberger-menu d-block d-lg-none pl--20 pl_sm--10">
